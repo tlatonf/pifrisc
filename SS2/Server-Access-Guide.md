@@ -2,12 +2,13 @@
 
 *Last updated: 03/10/2024*
 
-***NOTICE:**
-\- This guide is for Windows operating system users. For other operating systems (Linux/Mac OS), please contact the administrator for support.
-\- Please contact the administrator to receive **your account** and **vpn configuration file**.
-\- This is an internal document, please do not share it with others.
-\- This is an internal document, please do not share it with others.
-\- This is an internal document, please do not share it with others.*
+**NOTICE:**
+
+* *This guide is for Windows operating system users. For other operating systems (Linux/Mac OS), please contact the administrator for support.*
+* *Please contact the administrator to receive **your account** and **vpn configuration file**.*
+* *This is an internal document, please do not share it with others.*
+* *This is an internal document, please do not share it with others.*
+* *This is an internal document, please do not share it with others.*
 
 ## 1. Install & configure Wireguard (skip if you don't need remote external access)
 
