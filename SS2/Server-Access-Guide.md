@@ -1,8 +1,8 @@
-# SERVER DOCUMENTATION: SETUP AND ACCESS GUIDE
+# [SERVER DOCUMENTATION: SETUP AND ACCESS GUIDE](https://pifclub.site/setup)
 
 *Last updated: 03/10/2024*
 
-**NOTICE:**
+***NOTICE:***
 
 * *This guide is for Windows operating system users. For other operating systems (Linux/Mac OS), please contact the administrator for support.*
 * *Please contact the administrator to receive **your account** and **vpn configuration file**.*
